@@ -1,9 +1,12 @@
-## Hi there 👋
+## 👋 Hi there I'm Lewis 
 
+I'm a Final Year Data Science and Analytics Major studying in the National University of Singapore 
 
-[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7)](https://github.com/Lewisay7/github-readme-stats)
+- 📫 How to reach me:
+  
+
+[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7&theme=ayu-mirage&show_icons=true)](https://github.com/Lewisay7/github-readme-stats)
 <!--
-**Lewisay7/Lewisay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
