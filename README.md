@@ -5,7 +5,7 @@ I'm a Final Year Data Science and Analytics Major studying in the National Unive
 - 📫 How to reach me:
   
 
-[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7&theme=ayu-mirage&show_icons=true)](https://github.com/Lewisay7/github-readme-stats)
+[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7&theme=ayu-mirage&show_icons=true&custom_title=Lewis's\Github\Stats)](https://github.com/Lewisay7/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
