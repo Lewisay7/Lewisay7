@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/lewis-chong-li-wei"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
+  <a href="https://www.linkedin.com/in/lewis-chong-li-wei/"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   <a href="https://www.instagram.com/lewis_726"><img width="32px" title="Instagram" src="https://i.imgur.com/6QzKhtx.png"/></a>
 </p>
 
