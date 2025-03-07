@@ -12,10 +12,12 @@
 
 I'm a Final Year Data Science and Analytics Major studying in the National University of Singapore.
 
+<!--
 🔭 I’m currently working on 
 
 
-#[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7&theme=ayu-mirage&show_icons=true)](https://github.com/Lewisay7/github-readme-stats)
+[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lewisay7&theme=ayu-mirage&show_icons=true)](https://github.com/Lewisay7/github-readme-stats)
+-->
 
 <h4 align="left">Languages and Tools:</h4>
 
